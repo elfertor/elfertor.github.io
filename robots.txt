@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elfertor.github.io/sitemap.html.gz
+Sitemap: https://elfertor.github.io/app/sitemap.html.gz
+Sitemap: https://elfertor.github.io/assets/sitemap.html.gz
+Sitemap: https://elfertor.github.io/css/sitemap.html.gz
+Sitemap: https://elfertor.github.io/includes/sitemap.html.gz
+Sitemap: https://elfertor.github.io/item/sitemap.html.gz
+Sitemap: https://elfertor.github.io/src/sitemap.html.gz
